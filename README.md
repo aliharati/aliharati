@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Allen</h1>
 
-- 🔭 I’m currently working on becoming a Software engineer
+- 🔭 Working on becoming a Software engineer
 
 - 🌱 I’m currently:
   - Learning backend web development (django) in [MaktabSharif](https://maktabsharif.ir)
