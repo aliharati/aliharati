@@ -3,7 +3,6 @@
 - 🔭 Working on becoming a Software engineer
 
 - 🌱 I’m currently:
-  - Learning backend web development (django) in [MaktabSharif](https://maktabsharif.ir)
   - Working through [Coding interview university](https://github.com/jwasham/coding-interview-university) to learn DS & Algo
   - I am also studying MCs of computer science at university of York
 
