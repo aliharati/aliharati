@@ -3,10 +3,11 @@
 - 🔭 Working on becoming a Software engineer
 
 - 🌱 I’m currently:
-  - Working through [Coding interview university](https://github.com/jwasham/coding-interview-university) to learn DS & Algo
-  - I am also studying MCs of computer science at university of York
+  - Working through full-stack development projects
+  - Studying MCs of computer science at university of York
+  - Working on data analytics projects and prediction models
 
-- 📫 You can reach me @ a.harati1993@gmail.com
+- 📫 You can reach me @ ali.sa.harati@proton.me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliharati&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
